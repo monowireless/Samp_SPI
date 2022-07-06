@@ -1,3 +1,8 @@
-サンプル-SPI
-SPIバスのAPI利用サンプルです。
-https://github.com/monowireless/Samp_SPI
+[JAPANESE]
+TITLE=サンプル-SPI
+DESC=SPIバスのAPI利用サンプルです。
+URL=https://github.com/monowireless/Samp_SPI
+[ENGLISH]
+TITLE=Samp_SPI
+DESC=Write to two or more devices. Sending from one side will result in a Pong message back from the other device.
+URL=https://github.com/monowireless/Samp_SPI
