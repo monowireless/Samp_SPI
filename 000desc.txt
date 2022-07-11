@@ -1,8 +1,8 @@
 [JAPANESE]
-TITLE=サンプル-SPI
-DESC=SPIバスのAPI利用サンプルです。
+TITLE=SPI サンプル
+DESC=SPIバスを制御するサンプルです。
 URL=https://github.com/monowireless/Samp_SPI
 [ENGLISH]
 TITLE=Samp_SPI
-DESC=Write to two or more devices. Sending from one side will result in a Pong message back from the other device.
+DESC=App sample for SPI. Write this app to multiple devices.
 URL=https://github.com/monowireless/Samp_SPI
